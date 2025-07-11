@@ -160,8 +160,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/rma010101)
-- Email: your.email@example.com
+- GitHub: [@rma010101](https://github.com/rma010101)
+- Email: roslan.amin@gmail.com
 
 ## Future Enhancements
 
